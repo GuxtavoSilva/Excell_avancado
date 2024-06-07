@@ -1,0 +1,4 @@
+Produto;Quantidade;Preço Unitário;Código de Barras
+Ração Super Mais;20;34,00;7896543289
+Ração Chinesa para gatos;30;26,00;690874576
+Sache de carne de ovelha;100;12,00;7897654785

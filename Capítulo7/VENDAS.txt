@@ -1,0 +1,8 @@
+Data Compra;Nome Cliente;Item;Quantidade;Valor Unitario
+12/03/2011;Francisco;Caderno;5;10
+13/03/2011;Diana;Lapis;100;1
+12/04/2011;Gilberto;Lapiseira;6,80;2
+13/04/2011;Maria Lais;Régua;0,67;50
+15/04/2011;Fernando;Caderno;20;10
+20/04/2011;Rodrigo;Caneta Azul;10;2,75
+20/04/2011;Rodrigo;Caderno 100Folhas;2;9,90
